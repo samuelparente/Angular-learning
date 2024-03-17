@@ -5,6 +5,9 @@ body{
   background:#fffffa;
 }
 
+.btn {
+  margin: 5px;
+}
 .navbar{
   background: darkred;
   padding: 10px;
